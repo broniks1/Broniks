@@ -7,16 +7,16 @@ I'm currently learning software development and building my skills step by step.
 
 ### 🛠️ Currently learning
 
-* Programming fundamentals
-* Git & GitHub
-* Web development
-* Python / JavaScript
+* Python
+* Financial Technology (FinTech)
+* Project Management
 
 ### 🚀 Goals
 
 * Build my first real projects
-* Improve my programming skills
-* Learn modern development tools
+* Improve my Python skills
+* Learn more about FinTech
+* Develop my management and project management skills
 * Build a strong portfolio
 
 ### 📌 About
@@ -24,6 +24,9 @@ I'm currently learning software development and building my skills step by step.
 ```text
 Learning → Building → Improving
 ```
+
+---
+
 
 ---
 
