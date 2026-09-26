@@ -1,4 +1,4 @@
-# Broniks
+
 # 👋 Hi, I'm Broniks
 
 💻 Developer in progress
@@ -32,7 +32,7 @@ Learning → Building → Improving
 
 <p align="center">
 
-### PROJECT
+### PROJECTS
 
 * https://broniks1.github.io/currency-converter/
 
