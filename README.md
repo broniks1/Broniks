@@ -31,5 +31,8 @@ Learning → Building → Improving
 ---
 
 <p align="center">
+
+* https://broniks1.github.io/currency-converter/
+  
   <i>More projects coming soon...</i>
 </p>
